@@ -1,0 +1,2 @@
+iverilog -o tb.vvp tb.v
+vvp tb.vvp
